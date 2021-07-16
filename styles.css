@@ -1,0 +1,20 @@
+
+body{
+    background-color: #D8D8D8;
+}
+.navbar{
+ background-color: #2C2C2C;
+}
+.navbar li a {
+    color: #ccc;
+}
+.navbar-nav li a{
+    color: #ccc;
+}
+.card{
+    background-color:#ECECEC ;
+}
+.a-color{
+    color: #9b4a9b;
+    text-decoration:none;
+}
