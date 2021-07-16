@@ -21,3 +21,9 @@ body{
 .list ul> li{
     text-decoration: none;
 }
+.color{
+    background-color: #D8D8D8;
+}
+.color a{
+    color: #ccc;
+}
