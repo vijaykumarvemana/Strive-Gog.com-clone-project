@@ -38,10 +38,24 @@ body{
 #price-body{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
 }
 #price-inner{
     display: flex;
     justify-content: space-between;
-    align-items:;
+    align-items: flex-end;
+}
+#inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#img{
+    display:none;
+}
+#price-body:hover i{
+ display: none;
+}
+#price-body:hover #img{
+    display:block;
 }
