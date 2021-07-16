@@ -27,3 +27,21 @@ body{
 .color a{
     color: #ccc;
 }
+#discount{
+    width: 60px;
+    height: 30px;
+    background-color:#78387B;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bolder;
+}
+#price-body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#price-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items:;
+}
